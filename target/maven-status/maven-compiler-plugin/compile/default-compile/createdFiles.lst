@@ -1,0 +1,5 @@
+com\rockville\exercise\utils\DataProcessor.class
+com\rockville\exercise\beans\MetaData$MetaDataBuilder.class
+com\rockville\exercise\beans\MetaData.class
+com\rockville\exercise\ExerciseApplication.class
+com\rockville\exercise\controllers\DataUploaderController.class
